@@ -25,5 +25,6 @@ Project: rafael-skip-challenge
 
 - When you run the application, you should see liquibase in action, performing the changes on the 'vanhack' database.
 
+- I started swagger api to makes documentation API.(not finish :) - Under development )
 
 Thanks 4 ALL!
