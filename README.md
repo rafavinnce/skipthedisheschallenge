@@ -19,7 +19,11 @@ Project: rafael-skip-challenge
 
 - JdbcTemplate core for framework data classes.
 
--SpringBoot Application scans model. service and repository components in same file
+- SpringBoot Application scans model. service and repository components in same file
+
+- I used liquibase for approach database changes . I have created a repository for all of this work. I have added one more dependency in my codebase.
+
+- When you run the application, you should see liquibase in action, performing the changes on the 'vanhack' database.
 
 
 Thanks 4 ALL!
